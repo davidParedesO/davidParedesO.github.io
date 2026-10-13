@@ -1,0 +1,9 @@
+{
+  "name": "David Paredes · Web y automatizaciones con IA",
+  "short_name": "David Paredes",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#0E1621",
+  "theme_color": "#0E1621",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
